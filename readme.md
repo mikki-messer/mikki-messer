@@ -2,10 +2,10 @@
 I’m a QA engineer.
 ---
 
-###About me:
+### About me:
 - I’ve been a software developer for more than 10 years before switching to software testing. Best job I ever had! :sunglasses:
 
-###My LinkedIn
+### My contacts
 
 ![LinkedIn](img/linkedIn.png)https://www.linkedin.com/in/mike-bulanov/
 
