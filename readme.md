@@ -3,6 +3,7 @@ I’m a QA engineer.
 ---
 
 ### About me:
+- <a href = "https://atsqa.org/certified-testers/profile/3ca5d76b0c0641a9b3c4fadae1cc0f67">Certified Tester Foundation Level | ASTQB - ISTQB in the U.S.</a>
 - I’ve been a software developer for more than 10 years before switching to software testing. Best job I ever had! :sunglasses:
 
 ### Selected test automation projects:
