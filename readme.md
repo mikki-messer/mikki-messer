@@ -15,5 +15,3 @@ I’m a QA engineer.
 ### Contact me
 
 [![LinkedIn](img/linkedIn.png)](https://www.linkedin.com/in/mike-bulanov/)
-
-![Mikki-messer’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mikki-messer&show_icons=true)
